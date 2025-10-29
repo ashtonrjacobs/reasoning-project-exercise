@@ -1,0 +1,65 @@
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Direct__NA_en-es.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 3.4480785542952974
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Direct__NA_es-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 29.95122079224771
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Direct__NA_fr-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 30.62191600516344
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Self-CoT__NA_en-es.jsonl, Method: self-CoT-translation, Missing: 14, Average BLEU: 3.1608176703693047
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Self-CoT__NA_es-en.jsonl, Method: self-CoT-translation, Missing: 12, Average BLEU: 32.20260662673843
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Self-CoT__NA_fr-en.jsonl, Method: self-CoT-translation, Missing: 10, Average BLEU: 33.81227917563588
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Teacher-CoT__Qwen_Qwen3-32B_en-es.jsonl, Method: teacher-CoT-translation, Missing: 25, Average BLEU: 5.067968840884751
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Teacher-CoT__Qwen_Qwen3-32B_es-en.jsonl, Method: teacher-CoT-translation, Missing: 18, Average BLEU: 41.070185984599554
+File: student_deepseek-ai_DeepSeek-R1-Distill-Llama-8B__Teacher-CoT__Qwen_Qwen3-32B_fr-en.jsonl, Method: teacher-CoT-translation, Missing: 26, Average BLEU: 32.81746904978783
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Direct__NA_en-es.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 4.883800649469433
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Direct__NA_es-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 3.3299540393934035
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Direct__NA_fr-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 6.576987478967415
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Self-CoT__NA_en-es.jsonl, Method: self-CoT-translation, Missing: 33, Average BLEU: 4.229742135591327
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Self-CoT__NA_es-en.jsonl, Method: self-CoT-translation, Missing: 26, Average BLEU: 9.47286732424645
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Self-CoT__NA_fr-en.jsonl, Method: self-CoT-translation, Missing: 35, Average BLEU: 9.436123912352574
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Teacher-CoT__Qwen_Qwen3-32B_en-es.jsonl, Method: teacher-CoT-translation, Missing: 25, Average BLEU: 5.1615516620737925
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Teacher-CoT__Qwen_Qwen3-32B_es-en.jsonl, Method: teacher-CoT-translation, Missing: 27, Average BLEU: 33.2337760946965
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B__Teacher-CoT__Qwen_Qwen3-32B_fr-en.jsonl, Method: teacher-CoT-translation, Missing: 27, Average BLEU: 31.99362672389984
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Direct__NA_en-es.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 4.415705672340358
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Direct__NA_es-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 24.200716425863064
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Direct__NA_fr-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 25.684943415815635
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Self-CoT__NA_en-es.jsonl, Method: self-CoT-translation, Missing: 29, Average BLEU: 8.519769741271247
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Self-CoT__NA_es-en.jsonl, Method: self-CoT-translation, Missing: 29, Average BLEU: 25.636103233648793
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Self-CoT__NA_fr-en.jsonl, Method: self-CoT-translation, Missing: 25, Average BLEU: 20.062478931967334
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Teacher-CoT__Qwen_Qwen3-32B_en-es.jsonl, Method: teacher-CoT-translation, Missing: 1, Average BLEU: 4.376406058503285
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Teacher-CoT__Qwen_Qwen3-32B_es-en.jsonl, Method: teacher-CoT-translation, Missing: 1, Average BLEU: 37.544333138441495
+File: student_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B__Teacher-CoT__Qwen_Qwen3-32B_fr-en.jsonl, Method: teacher-CoT-translation, Missing: 1, Average BLEU: 36.52965181797724
+File: student_Qwen_Qwen3-8B__Direct__NA_en-es.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 4.17870664455759
+File: student_Qwen_Qwen3-8B__Direct__NA_es-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 36.48380255398132
+File: student_Qwen_Qwen3-8B__Direct__NA_fr-en.jsonl, Method: direct_translation, Missing: 0, Average BLEU: 35.522234467949474
+File: student_Qwen_Qwen3-8B__Self-CoT__NA_en-es.jsonl, Method: self-CoT-translation, Missing: 50, No BLEU scores found
+File: student_Qwen_Qwen3-8B__Self-CoT__NA_es-en.jsonl, Method: self-CoT-translation, Missing: 50, No BLEU scores found
+File: student_Qwen_Qwen3-8B__Self-CoT__NA_fr-en.jsonl, Method: self-CoT-translation, Missing: 10, Average BLEU: 33.41868967067337
+File: student_Qwen_Qwen3-8B__Teacher-CoT__Qwen_Qwen3-32B_en-es.jsonl, Method: teacher-CoT-translation, Missing: 9, Average BLEU: 4.7816680051300775
+File: student_Qwen_Qwen3-8B__Teacher-CoT__Qwen_Qwen3-32B_es-en.jsonl, Method: teacher-CoT-translation, Missing: 5, Average BLEU: 37.65959660581291
+File: student_Qwen_Qwen3-8B__Teacher-CoT__Qwen_Qwen3-32B_fr-en.jsonl, Method: teacher-CoT-translation, Missing: 5, Average BLEU: 34.98287852924558
+File: student_Qwen_Qwen3-8B__Teacher-Synthesized-CoT__Qwen_Qwen3-32B_fr-en.jsonl, Method: teacher-Synthesized-CoT-translation, Missing: 3, Average BLEU: 36.65944891765954
+Per (model × pair) winners by BLEU:
+deepseek-ai/DeepSeek-R1-Distill-Llama-8B:
+  en-es: teacher (5.067968840884751)
+  es-en: teacher (41.070185984599554)
+  fr-en: self (33.81227917563588)
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B:
+  en-es: teacher (5.1615516620737925)
+  es-en: teacher (33.2337760946965)
+  fr-en: teacher (31.99362672389984)
+deepseek-ai/DeepSeek-R1-Distill-Qwen-7B:
+  en-es: self (8.519769741271247)
+  es-en: teacher (37.544333138441495)
+  fr-en: teacher (36.52965181797724)
+Qwen/Qwen3-8B:
+  en-es: teacher (4.7816680051300775)
+  es-en: teacher (37.65959660581291)
+  fr-en: synth_teacher (36.65944891765954)
+Total Direct BLEUS: 499, Average Direct BLEU: 18.916707884571206
+Total Teacher BLEUS: 430, Average Teacher BLEU: 25.96944747703004
+Synthesized Teacher BLEU: 36.65944891765954
+Total Self BLEUS: 277, Average Self BLEU: 20.52837125756854
+Direct Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 21.52361396138468, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 4.968249075541321, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 17.90982200713583, 'Qwen/Qwen3-8B': 25.168610718792348}
+Teacher Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 27.51314110770633, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 22.947451498303675, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 26.15013033830734, 'Qwen/Qwen3-8B': 26.450074574717295}
+Self Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 23.596312762936762, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 7.871362335218856, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 18.191571727947824, 'Qwen/Qwen3-8B': 33.41868967067337}
+Synthesized Teacher Performance: {'Qwen/Qwen3-8B': 36.65944891765954}
+En-Es Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 3.7299090715233407, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 4.824994742133956, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 5.15482553523099, 'Qwen/Qwen3-8B': 4.450370554266074}
+Es-En Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 33.660124555826755, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 14.771294123070724, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 30.418719533861637, 'Qwen/Qwen3-8B': 37.05891920976851}
+Fr-En Performance: {'deepseek-ai/DeepSeek-R1-Distill-Llama-8B': 32.2610778223442, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B': 16.084104890092007, 'deepseek-ai/DeepSeek-R1-Distill-Qwen-7B': 28.997054429457254, 'Qwen/Qwen3-8B': 35.22023595148604}
